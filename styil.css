@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+header{
+    padding: 45px 0;
+    border-bottom: 2px solid #DEDBDB
+}
+
+
+header .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.heter-right{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.heter-right i{
+    font-size: 25px;
+    color: #f0400f;
+}
+
+
+main{
+    background: #fafafa;
+    height: 100vh;
+    padding: 46px;
+}
+
+
+.box {
+    width: 650px;
+    background: white;
+    border: 1px solid #DEDBDB;
+    padding: 66px;
+    margin: 0 auto;
+    border-radius: 50px;
+}
+
+.box-top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.box-top h2{
+    font-size: 25px;
+    color: #f0400f;
+}
+h1{
+font-size: 48px;
+font-weight: 700;
+line-height: 58.09px;
+text-align: center;
+color: #0E0D5D;
+margin-top: 70px;
+
+}
+.parentis{
+    width: 533px;
+    height: 70px;
+    background: #DEDBDB;
+border-radius: 20px;
+display: flex;
+align-items: center;
+padding: 8px 11px;
+gap: 42px;
+margin-top: 20px;
+}
+
+
+.parentis p{
+font-size: 28px;
+font-weight: 500;
+line-height: 33.89px;
+text-align: center;
+padding: 10px 40px;
+background-color: white;
+border-radius: 20px;
+width: 250px;
+}
+
+.parentis span{
+font-size: 28px;
+font-weight: 500;
+line-height: 33.89px;
+color: #757575;
+
+
+}
+
+input{
+    width: 533px;
+    height: 70px;
+    background: #fafafa;
+    border: 1px solid #75757530;
+    border-radius: 20px ;
+font-size: 24px;
+font-weight: 500;
+
+color : #757575B2;
+padding: 20px 51px;
+margin-top: 25px;
+outline: none;
+}
+
+#a{
+    font-size: 25px;
+    margin-left: -70px;
+}
+
+.qr{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29.05px;
+    text-align: center;
+margin-top: 18px;
+color: #000;
+}
+
+.btn{
+padding: 16px 23px;
+color: white;
+font-size: 25px;
+font-weight: 700;
+ line-height: 29.05px;
+ background: #F69E86;
+border-radius: 20px;   
+border: none;
+margin-top: 25px;
+margin-left: 320px;
+}
+
+
+
+
+
+
+
+
+
+
